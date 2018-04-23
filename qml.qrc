@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ConnectionPage.qml</file>
+        <file>ClientPage.qml</file>
+        <file>pager.js</file>
+        <file>ClickableImage.qml</file>
+        <file>vlccontrollerjs.js</file>
+        <file>BrowsePage.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>delete.png</file>
+        <file>edit.png</file>
+        <file>lan-connect.png</file>
+        <file>lan-disconnect.png</file>
+        <file>lan-pending.png</file>
+        <file>cast-connected.png</file>
+        <file>fullscreen.png</file>
+        <file>fullscreen-exit.png</file>
+        <file>volume.png</file>
+        <file>skip-next.png</file>
+        <file>skip-previous.png</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>check.png</file>
+        <file>cast.png</file>
+        <file>repeat.png</file>
+        <file>repeat-off.png</file>
+        <file>stop.png</file>
+        <file>playlist.png</file>
+        <file>web.png</file>
+        <file>youtube.png</file>
+        <file>file.png</file>
+        <file>video.png</file>
+        <file>folder.png</file>
+    </qresource>
+</RCC>
